@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2142dfa9dc6ccf1489514e8b2b317880
+  m_SerializeEntries:
+  - m_GUID: 0009c5804b38be746ae511be8253da30
+    m_Address: Blueprints/Harvester/Iron Mine
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - harvesterBlueprint
+  - m_GUID: 1e8a59783121daa4c83216ad7b72fdba
+    m_Address: Blueprints/Drop Pod 01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - dropPodBlueprint
+  - m_GUID: 2d857b4418ab9284f90dcdd68e38660d
+    m_Address: Elements/Carbon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Elements
+    - elements
+  - m_GUID: 3563cf876b8113148bc74e8a94141fb8
+    m_Address: Buildings/Drop Pod
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 393e4bd3df34edd4cbeecfe466d14095
+    m_Address: Blueprints/Refinery/Steel Factory
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - refineryBlueprint
+  - m_GUID: 7425434b54ad59442bc442edaec17531
+    m_Address: Buildings/Iron Mine
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 828ecba67ceebe04bbac9394fd4962d2
+    m_Address: Buildings/Steel Factory
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a4701d9865056a44fa3256f712e3b667
+    m_Address: Scenes/Test/Drop Probe
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e39a055d20e1c2a448b962d6038a4d7f
+    m_Address: Elements/Iron
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Elements
+    - elements
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d0496a916e0563143a836f51496716e3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 515d51fcb0d61bd4681604ee00b87cc6, type: 2}
+    - {fileID: 11400000, guid: bd2987a29e7e81847a692786f5288433, type: 2}

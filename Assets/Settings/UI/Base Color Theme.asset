@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6570640679cecfe469cf293bd80310fa, type: 3}
+  m_Name: Base Color Theme
+  m_EditorClassIdentifier: 
+  colorSet:
+    primaryColor: {r: 0.23972999, g: 0.4867894, b: 0.655, a: 1}
+    secondaryColor: {r: 0.20392157, g: 0.28627452, b: 0.36862746, a: 1}
+    tertiaryColor: {r: 0.17254902, g: 0.24313726, b: 0.3137255, a: 1}
+    buttonHighlightColor: {r: 0.94509804, g: 0.76862746, b: 0.05882353, a: 1}
+    disabledColor: {r: 0.271825, g: 0.34521723, b: 0.415, a: 1}
+    accentColor: {r: 0.8018868, g: 0.56202686, b: 0.18155928, a: 1}
+    titlePrimaryColor: {r: 0.38022217, g: 0.944, b: 0.5309999, a: 1}
+    titleSecondaryColor: {r: 0.23072834, g: 0.587, b: 0.29091147, a: 1}
+    regularTextColor: {r: 0.8690815, g: 0.94500935, b: 0.990566, a: 1}
+    headerTextColor: {r: 0.4266643, g: 0.8193796, b: 0.8867924, a: 1}
+    subheaderTextColor: {r: 0.3868053, g: 0.802, b: 0.7737279, a: 1}
+    titleTextColor: {r: 0.20392159, g: 0.28627452, b: 0.36862746, a: 1}
+    buttonTextColor: {r: 0.9529412, g: 0.6117647, b: 0.07058824, a: 1}
+  primaryBackground: {fileID: 21300000, guid: 35217ce31a02b0d4caf8407c1af08c7b, type: 3}
+  secondaryBackground: {fileID: 0}
+  titleFontSize: 42
+  headerFontSize: 42
+  subheaderFontSize: 40
+  regularFontSize: 36
+  buttonFontSize: 36

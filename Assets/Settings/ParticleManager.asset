@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99be572719933c24aaeac3f1b96b73d7, type: 3}
+  m_Name: ParticleManager
+  m_EditorClassIdentifier: 
+  instancedParticles:
+  - id: SmallPolyPuff
+    prefab: {fileID: 8317191976903287088, guid: b6d035c60afdc3040b2311c95f51e2bd,
+      type: 3}
+  - id: LargeRingPuff
+    prefab: {fileID: 6203373128654634364, guid: 69d7f6d14073991478aaad755991bda1,
+      type: 3}

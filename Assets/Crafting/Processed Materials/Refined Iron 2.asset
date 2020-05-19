@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bedb482ac8fbd34191a1073e3d91de6, type: 3}
+  m_Name: Refined Iron 2
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 9acc2e10d235a43908c0b5f077a39235, type: 3}
+  element: {fileID: 11400000, guid: e39a055d20e1c2a448b962d6038a4d7f, type: 2}

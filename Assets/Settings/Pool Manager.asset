@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8956d6befe2f704084e9bc71b99f190, type: 3}
+  m_Name: Pool Manager
+  m_EditorClassIdentifier: 
+  defaultPoolSize: 4
+  defaultGrowSize: 4
+  scriptPath: 
+  scriptName: EPMPoolIDs01
+  poolableObjects:
+  - prefab: {fileID: 5626827339690627390, guid: 135f9f6f4e1dcd041a884bda8a2e86aa,
+      type: 3}
+    initialSize: 4
+    growSize: 4
+    id: PlopBounds
+    sendReset: 0

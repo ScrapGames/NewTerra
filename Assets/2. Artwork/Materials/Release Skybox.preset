@@ -1,0 +1,1139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Release Skybox
+  m_TargetType:
+    m_NativeTypeID: 21
+    m_ManagedTypePPtr: {fileID: 0}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Shader
+    value: 
+    objectReference: {fileID: -6465566751694194690, guid: fa1d75e627fa1e341bf72f26b068cbed,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_ShaderKeywords
+    value: BOOLEAN_84087A75_ON BOOLEAN_D193B972_ON
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LightmapFlags
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EnableInstancingVariants
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_DoubleSidedGI
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CustomRenderQueue
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: stringTagMap.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: disabledShaderPasses.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.size
+    value: 16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[0].first
+    value: Cubemap_3D25F3E8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[0].second.m_Texture
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[0].second.m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[0].second.m_Scale.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[0].second.m_Offset.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[0].second.m_Offset.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[1].first
+    value: Texture2D_872E8D16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[1].second.m_Texture
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[1].second.m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[1].second.m_Scale.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[1].second.m_Offset.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[1].second.m_Offset.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[2].first
+    value: _BackTex
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[2].second.m_Texture
+    value: 
+    objectReference: {fileID: 2800000, guid: 88352719b1b21db469b5bd1e652094a6, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[2].second.m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[2].second.m_Scale.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[2].second.m_Offset.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[2].second.m_Offset.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[3].first
+    value: _BaseMap
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[3].second.m_Texture
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[3].second.m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[3].second.m_Scale.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[3].second.m_Offset.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[3].second.m_Offset.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[4].first
+    value: _BumpMap
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[4].second.m_Texture
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[4].second.m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[4].second.m_Scale.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[4].second.m_Offset.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[4].second.m_Offset.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[5].first
+    value: _DownTex
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[5].second.m_Texture
+    value: 
+    objectReference: {fileID: 2800000, guid: d56a9f044b4eb464d989ebe368767b72, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[5].second.m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[5].second.m_Scale.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[5].second.m_Offset.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[5].second.m_Offset.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[6].first
+    value: _EmissionMap
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[6].second.m_Texture
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[6].second.m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[6].second.m_Scale.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[6].second.m_Offset.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[6].second.m_Offset.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[7].first
+    value: _FrontTex
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[7].second.m_Texture
+    value: 
+    objectReference: {fileID: 2800000, guid: f650fe6e2a9d4474a8ba20b3ad361f8a, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[7].second.m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[7].second.m_Scale.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[7].second.m_Offset.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[7].second.m_Offset.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[8].first
+    value: _LeftTex
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[8].second.m_Texture
+    value: 
+    objectReference: {fileID: 2800000, guid: 933d489d694db0f4f90c14e0bcf36220, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[8].second.m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[8].second.m_Scale.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[8].second.m_Offset.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[8].second.m_Offset.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[9].first
+    value: _MainTex
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[9].second.m_Texture
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[9].second.m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[9].second.m_Scale.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[9].second.m_Offset.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[9].second.m_Offset.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[10].first
+    value: _MetallicGlossMap
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[10].second.m_Texture
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[10].second.m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[10].second.m_Scale.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[10].second.m_Offset.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[10].second.m_Offset.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[11].first
+    value: _OcclusionMap
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[11].second.m_Texture
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[11].second.m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[11].second.m_Scale.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[11].second.m_Offset.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[11].second.m_Offset.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[12].first
+    value: _RightTex
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[12].second.m_Texture
+    value: 
+    objectReference: {fileID: 2800000, guid: 900011b682e15724285505fad11e6f99, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[12].second.m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[12].second.m_Scale.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[12].second.m_Offset.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[12].second.m_Offset.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[13].first
+    value: _SpecGlossMap
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[13].second.m_Texture
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[13].second.m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[13].second.m_Scale.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[13].second.m_Offset.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[13].second.m_Offset.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[14].first
+    value: _Tex
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[14].second.m_Texture
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[14].second.m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[14].second.m_Scale.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[14].second.m_Offset.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[14].second.m_Offset.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[15].first
+    value: _UpTex
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[15].second.m_Texture
+    value: 
+    objectReference: {fileID: 2800000, guid: fe4bf29dde6ca1d4caa40fb4f5cab62d, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[15].second.m_Scale.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[15].second.m_Scale.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[15].second.m_Offset.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_TexEnvs.Array.data[15].second.m_Offset.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.size
+    value: 47
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[0].first
+    value: BOOLEAN_4138275E
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[0].second
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[1].first
+    value: BOOLEAN_73F169B3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[1].second
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[2].first
+    value: BOOLEAN_84087A75
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[2].second
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[3].first
+    value: BOOLEAN_D193B972
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[3].second
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[4].first
+    value: Vector1_2EA74F48
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[4].second
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[5].first
+    value: Vector1_3C854B5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[5].second
+    value: 0.002
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[6].first
+    value: Vector1_4CABD460
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[6].second
+    value: 0.097
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[7].first
+    value: Vector1_4D21F48F
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[7].second
+    value: 2.54
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[8].first
+    value: Vector1_5D306B3A
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[8].second
+    value: 0.085
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[9].first
+    value: Vector1_625B488C
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[9].second
+    value: 0.183
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[10].first
+    value: Vector1_690C5ED1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[10].second
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[11].first
+    value: Vector1_7A814E
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[11].second
+    value: 100
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[12].first
+    value: Vector1_7E5DD475
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[12].second
+    value: 1.9
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[13].first
+    value: Vector1_95327F86
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[13].second
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[14].first
+    value: Vector1_A0A752EF
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[14].second
+    value: 0.57
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[15].first
+    value: Vector1_AFA9E735
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[15].second
+    value: 0.006601829
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[16].first
+    value: Vector1_B2D407F1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[16].second
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[17].first
+    value: Vector1_B424023B
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[17].second
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[18].first
+    value: Vector1_B7E17F28
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[18].second
+    value: 0.005
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[19].first
+    value: Vector1_CD25C354
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[19].second
+    value: 0.68
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[20].first
+    value: Vector1_CE74E29D
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[20].second
+    value: 99
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[21].first
+    value: Vector1_E867A4C1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[21].second
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[22].first
+    value: Vector1_FBE02C3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[22].second
+    value: -0.005
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[23].first
+    value: Vector1_FC655CB6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[23].second
+    value: 0.577
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[24].first
+    value: _AlphaClip
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[24].second
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[25].first
+    value: _Blend
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[25].second
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[26].first
+    value: _BumpScale
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[26].second
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[27].first
+    value: _Cull
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[27].second
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[28].first
+    value: _Cutoff
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[28].second
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[29].first
+    value: _DstBlend
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[29].second
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[30].first
+    value: _EnvironmentReflections
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[30].second
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[31].first
+    value: _Exposure
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[31].second
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[32].first
+    value: _GlossMapScale
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[32].second
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[33].first
+    value: _Glossiness
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[33].second
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[34].first
+    value: _GlossyReflections
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[34].second
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[35].first
+    value: _Metallic
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[35].second
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[36].first
+    value: _OcclusionStrength
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[36].second
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[37].first
+    value: _QueueOffset
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[37].second
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[38].first
+    value: _ReceiveShadows
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[38].second
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[39].first
+    value: _Rotation
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[39].second
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[40].first
+    value: _Smoothness
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[40].second
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[41].first
+    value: _SmoothnessTextureChannel
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[41].second
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[42].first
+    value: _SpecularHighlights
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[42].second
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[43].first
+    value: _SrcBlend
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[43].second
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[44].first
+    value: _Surface
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[44].second
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[45].first
+    value: _WorkflowMode
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[45].second
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[46].first
+    value: _ZWrite
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Floats.Array.data[46].second
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.size
+    value: 16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[0].first
+    value: Color_183F18D
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[0].second.r
+    value: 0.09146619
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[0].second.g
+    value: 0.04503382
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[0].second.b
+    value: 0.20754719
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[0].second.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[1].first
+    value: Color_4AB0FFCE
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[1].second.r
+    value: 0.023762912
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[1].second.g
+    value: 0.27402657
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[1].second.b
+    value: 0.8396226
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[1].second.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[2].first
+    value: Color_5327B318
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[2].second.r
+    value: 0.6886792
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[2].second.g
+    value: 0.5011734
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[2].second.b
+    value: 0.22739407
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[2].second.a
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[3].first
+    value: Color_68288550
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[3].second.r
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[3].second.g
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[3].second.b
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[3].second.a
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[4].first
+    value: Color_7DA5D42A
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[4].second.r
+    value: 0.14177635
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[4].second.g
+    value: 0.15650147
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[4].second.b
+    value: 0.25471696
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[4].second.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[5].first
+    value: Color_90F9A97B
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[5].second.r
+    value: 0.25026697
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[5].second.g
+    value: 0.25042218
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[5].second.b
+    value: 0.34905657
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[5].second.a
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[6].first
+    value: Color_A893967C
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[6].second.r
+    value: 0.08443038
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[6].second.g
+    value: 0.68843234
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[6].second.b
+    value: 0.252291
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[6].second.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[7].first
+    value: Color_DFAE858C
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[7].second.r
+    value: 0.31682807
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[7].second.g
+    value: 0.16820925
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[7].second.b
+    value: 0.33018863
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[7].second.a
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[8].first
+    value: Vector3_6FFCABAC
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[8].second.r
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[8].second.g
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[8].second.b
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[8].second.a
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[9].first
+    value: Vector3_9E5EDBF7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[9].second.r
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[9].second.g
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[9].second.b
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[9].second.a
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[10].first
+    value: Vector3_EE6C1F88
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[10].second.r
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[10].second.g
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[10].second.b
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[10].second.a
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[11].first
+    value: _BaseColor
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[11].second.r
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[11].second.g
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[11].second.b
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[11].second.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[12].first
+    value: _Color
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[12].second.r
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[12].second.g
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[12].second.b
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[12].second.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[13].first
+    value: _EmissionColor
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[13].second.r
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[13].second.g
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[13].second.b
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[13].second.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[14].first
+    value: _SpecColor
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[14].second.r
+    value: 0.19999996
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[14].second.g
+    value: 0.19999996
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[14].second.b
+    value: 0.19999996
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[14].second.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[15].first
+    value: _Tint
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[15].second.r
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[15].second.g
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[15].second.b
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SavedProperties.m_Colors.Array.data[15].second.a
+    value: 0.5
+    objectReference: {fileID: 0}

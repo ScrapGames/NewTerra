@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b99b2145849d844bba44e5cdba778c7, type: 3}
+  m_Name: Icon Database
+  m_EditorClassIdentifier: 
+  terraformIcon: {fileID: 21300000, guid: 8c23741f9b26445f79736bef444e22bd, type: 3}
+  buildIcon: {fileID: 21300000, guid: a3aec310c72ff6b4cad48cfbf617818e, type: 3}
+  alertIcon: {fileID: 21300000, guid: 86e9fad25cc6d764084964886e338a33, type: 3}
+  orbiticon: {fileID: 21300000, guid: 0b19d29dacdb8de40897e3f96e617fe3, type: 3}
+  resourceIcon: {fileID: 21300000, guid: b8f24b8caef61d54d906c66cd5610bae, type: 3}
+  harvesterIcon: {fileID: 21300000, guid: d0d1264d5b2ce5c42bbbb094349e1f67, type: 3}
+  refineryIcon: {fileID: 21300000, guid: b054235a93fda0246aec414b67e250e2, type: 3}

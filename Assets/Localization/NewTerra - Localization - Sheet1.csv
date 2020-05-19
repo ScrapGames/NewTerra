@@ -1,0 +1,21 @@
+Category,ID,en,de
+BUILDING,BUI-001,Harvest,Ernte
+,BUI-002,Refine,Verfeinern
+,BUI-003,Utility,Nützlichkeit
+,BUI-004,Terraform,Terraforming
+,,,
+HARVESTER,HAR-001,Iron Mine,Eisenmiene
+,HAR-001-D,This harvester will extract iron,Diese Mähdrescher wird extrahieren Eisen
+,HAR-002,Alloy Master,Alloy Meister
+,HAR-002-D,A dual purpose mine which extracts aluminium and iron,"Eine doppelter Zweck Mine, die extrahiert Aluminium und Eisen"
+,,,
+REFINERY,REF-001,Metal Maker,Metall-Maker
+,REF-001-D,Creates iron ingots from raw iron ore,Erzeugt Eisenbarren aus Roheisenerz
+,,,
+RAW MATERIAL,RAW-001,Aluminium Ore,Aluminium-Erz
+,RAW-002,Iron Ore,Eisenerz
+,,,
+UI,UI-001,Raw Materials,Rohes Material
+,,,
+DRONE MESSAGES,DRONE-001,Mission Log | Incoming data stream... | Mission objectives received... | Protocol NewTerra initiated...,Mission Log | Eingehender Datenstrom ... | Missionsziele erhalten ... | Protokoll NewTerra eingeleitet ...
+,DRONE-002,Mission Log | Commencing planetary scan... | Preparing resource extraction,Mission Log | Beginnend Planeten Scan ... | Vorbereiten Ressourcenextraktion

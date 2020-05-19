@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8653177995349989814
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 1
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Planet Toon
+  m_Shader: {fileID: 4800000, guid: 81b67b8fd42b3be45bb6dd8e3c09f8c3, type: 3}
+  m_ShaderKeywords: SHOW_RIM_ON USE_TEXTURE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_BB2238AA:
+        m_Texture: {fileID: 2800000, guid: 9a13d4b2e25a1f2498705d8b610b1668, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_FD27A120:
+        m_Texture: {fileID: 2800000, guid: 9a13d4b2e25a1f2498705d8b610b1668, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 9a13d4b2e25a1f2498705d8b610b1668, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 9a13d4b2e25a1f2498705d8b610b1668, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 2800000, guid: 9a13d4b2e25a1f2498705d8b610b1668, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_CE3E77F5_Out_0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - BOOLEAN_9C30777A: 0
+    - BOOLEAN_C2AE4B1C: 1
+    - BOOLEAN_CD43CD77: 0
+    - BOOLEAN_DD39BF37: 1
+    - Rim_Falloff: 0.2
+    - SHOW_RIM: 1
+    - SHOW_SPEC: 0
+    - USE_TEXTURE: 1
+    - USE_VERTEX_COLORS: 0
+    - Vector1_1377AB23: 0.9
+    - Vector1_2A54A45D: 0.031
+    - Vector1_30EAD00F: 0.9
+    - Vector1_4492D505: 1
+    - Vector1_5C4E01A1: -0.5
+    - Vector1_93869591: 0
+    - Vector1_9E4256F1: 0.736
+    - Vector1_BD48981C: 0.2
+    - Vector1_C7143022: 0.544
+    - Vector1_CD5A1AB3: 0.163
+    - Vector1_CD7CEFC: 0.1
+    - Vector1_DD779B79: 0.9
+    - Vector1_E764CAB3: 0.65
+    - Vector1_F2670A5: 1
+    - _AlphaClip: 0
+    - _Blend: 0
+    - _BumpScale: 1
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DstBlend: 0
+    - _EnvironmentReflections: 1
+    - _GlossMapScale: 0
+    - _Glossiness: 0
+    - _GlossinessSource: 0
+    - _GlossyReflections: 0
+    - _Metallic: 0
+    - _OcclusionStrength: 1
+    - _QueueOffset: 1
+    - _ReceiveShadows: 1
+    - _Shininess: 0
+    - _Smoothness: 0.124
+    - _SmoothnessSource: 0
+    - _SmoothnessTextureChannel: 0
+    - _SpecSource: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _Surface: 0
+    - _WorkflowMode: 1
+    - _ZWrite: 1
+    m_Colors:
+    - Color_3F92C337: {r: 1, g: 1, b: 1, a: 0}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecColor: {r: 0.19999969, g: 0.19999969, b: 0.19999969, a: 0}
+    - _SunPos: {r: -10, g: 10, b: 0, a: 0}

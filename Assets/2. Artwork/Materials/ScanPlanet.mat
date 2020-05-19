@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ScanPlanet
+  m_Shader: {fileID: -6465566751694194690, guid: ce3e32679c0685640831a151e45b973c,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_8E2363A9:
+        m_Texture: {fileID: 2800000, guid: 825182bf787c5d7478eb1e93ec6ab9c6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_C5598AD5:
+        m_Texture: {fileID: 2800000, guid: 9d3cf046929f15e45b38b7e32103f4d6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_3D280D4D: -1
+    - Vector1_63B001AA: 2.96
+    - Vector1_6608A26D: 10
+    - Vector1_87EBEEA5: 0.05
+    - Vector1_8D7A33E3: 3.33
+    - Vector1_E72482E6: 0.5
+    - Vector1_F25BA2DD: 3
+    m_Colors:
+    - Color_4CF9B061: {r: 0.6297557, g: 2.9010267, b: 0.27028206, a: 0}
+    - Color_6EC82D67: {r: 0.031386137, g: 0.5994754, b: 0.07218808, a: 1}
+    - Color_F5B807C4: {r: 0.18583125, g: 0.6792453, b: 0.45846468, a: 1}
+    - Vector2_93BB9B60: {r: 2, g: 2, b: 0, a: 0}
+    - Vector2_B2A644AC: {r: 0.5, g: 1, b: 0, a: 0}

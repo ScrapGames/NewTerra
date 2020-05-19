@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1915c3e479942b48bb6fadb0aaef490, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  scene_BuildingPreview: Building Preview
+  timer_PlanetScan: 2
+  plopRotateSpeed: 90
+  iconDatabase: {fileID: 11400000, guid: 7601c77df7ee1c04d89be036a0df0c6c, type: 2}
+  prefab_UI_ModeSelect: {fileID: 6069371707577205642, guid: 7a0c9a073d349d44f855cd2529653f18,
+    type: 3}
+  prefab_UI_Cursor: {fileID: 3512939054715189753, guid: 74f06bfb3aa0c15439bd9c2a87ae777b,
+    type: 3}
+  prefab_UI_NotificationMinimised: {fileID: 9009445108451327369, guid: 49604fea9e6198141bf03bd7032f8d97,
+    type: 3}
+  prefab_UI_NotificationExpanded: {fileID: 6921611431812076874, guid: d5394c721b1defc4692ff62d1b8505b5,
+    type: 3}
+  prefab_UI_ResourceList: {fileID: 7034896442012058008, guid: 8af9a15959de37448baa1951d65c7bec,
+    type: 3}
+  prefab_UI_ComponentIcon: {fileID: 2032973435676754163, guid: 37813f032ad42624d8dd30e9b6a3a865,
+    type: 3}
+  prefab_UI_Panel: {fileID: 6070431207559138967, guid: 1039d81a50e93874eac2f8d5dfc02b19,
+    type: 3}
+  prefab_UI_BuildMenu: {fileID: 4762453815840539119, guid: 1c408c85333eb7a4b95b2869f1748686,
+    type: 3}
+  prefab_UI_Main: {fileID: 1353726961596338309, guid: 243d6f1d1cece514d976a594f649b5be,
+    type: 3}
+  prefab_UI_ChangeLog: {fileID: 8537417291845841465, guid: 75001c6947d819b479cea4b2d8732f93,
+    type: 3}
+  ui_TextSpeed: 0.025
+  ui_ControllerCursorSensitivity: 0.4
+  prefab_ScreenCanvas: {fileID: 1185815449380363402, guid: 4e19d292b2273274f9713be4c32a15fc,
+    type: 3}
+  prefab_CameraCanvas: {fileID: 7906589943200597931, guid: 3c03aa2f60d021c4689286a955ffbc49,
+    type: 3}
+  material_PlanetScan: {fileID: 2100000, guid: d60b8930fe14fd94cb83bfb709d1a878, type: 2}
+  material_PlanetResourceView: {fileID: 2100000, guid: c95bf5047b4bdff4e8c96cd6255479c8,
+    type: 2}
+  material_PlanetResourceViewSelected: {fileID: 2100000, guid: add992e30a0623243b53e77aaa6b42b7,
+    type: 2}
+  material_PlopTrue: {fileID: 2100000, guid: 92216033463b4174a845d5a097214fe5, type: 2}
+  material_PlopFalse: {fileID: 2100000, guid: 71b5fdde489c0ca4eb92ddd871ecf717, type: 2}
+  material_PlopLineRenderer: {fileID: 2100000, guid: 1f8d1ac02550174478477f235b6fcca0,
+    type: 2}
+  hoverPunchSize: {x: -0.02, y: -0.02, z: -0.02}
+  hoverPunchDuration: 0.25
+  hoverPunchElasticity: 0.641
+  hoverPunchVibrato: 4
+  audioMixerGroup_SFX: {fileID: -2179874465066796615, guid: 10fbc0dca299521459effadaedf3df6b,
+    type: 2}
+  audioMixerGroup_BGM: {fileID: -8950175082870186652, guid: 10fbc0dca299521459effadaedf3df6b,
+    type: 2}
+  audioMixerGroup_UI: {fileID: -5588353347770244892, guid: 10fbc0dca299521459effadaedf3df6b,
+    type: 2}
+  audioMixerGroup_SFXBG: {fileID: 3319773159210988483, guid: 10fbc0dca299521459effadaedf3df6b,
+    type: 2}
