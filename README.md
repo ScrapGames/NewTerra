@@ -5,6 +5,10 @@
 **NewTerra** is a relaxing resource gathering and building game set on planets and moons in various solar systems.  Your goal as the mission drone is to save humanity from the extinction event on earth by terraforming planets and colonizing planets along the way.
 A fully fleshed out [Game Design Document](https://docs.google.com/document/d/1NYWqWIF6ULXIiZC99v4d6BNCfC1VkDRlUcD5BAccXhU/edit?usp=sharing) has been created showing the games vision.  (*Feel free to comment and add to it!*)
 
+**Video of game here**
+
+[![YouTube](Landing.png)](https://www.youtube.com/watch?v=12vqFxX7Za4)
+
 # Why is it now public?
 After applying for several grants to help fund the game and receiving no positive feedback, I decided it was time to step away from my career in game development and shift into other verticals.
 I still believe the game vision is fun and is something I would want to play - however the lack of financial support from my local government and almost zero industry opportunity in my area has forced my hand.
