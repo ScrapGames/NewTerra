@@ -18,4 +18,9 @@ There are some great coding examples and practices here - so if anything it is a
 As mentioned above, I still believe in this game and I will continue to work on it at a hobbiest capacity.  That said, I welcome contributers and if other people out there want to help the future of the game - that would be amazing!  
 If this happens and the game gets completed - it will be released as free however similar to what Dauntless has done, credit people and show their contributions in the main menu and have a link for direct donations to those people :)
 
+# What do I need to know after I download it?
+**THE BIGGEST THING TO NOTE** The game loads required assets asynchronously via a *bootstrap* scene.
+If you want to play the game in the editor to check it out, you *must* load up the scene called **bootstrap** for it to work correctly.
+The game supports both mouse/keyboard and controller - however the UI is not optimised for the controller as yet.
+
 ![Promo Pic](Assets/2.%20Artwork/UI/Promo%201.jpg)
