@@ -9,11 +9,6 @@ A fully fleshed out [Game Design Document](https://docs.google.com/document/d/1N
 
 [![YouTube](Landing.png)](https://www.youtube.com/watch?v=12vqFxX7Za4)
 
-# Why is it now public?
-After applying for several grants to help fund the game and receiving no positive feedback, I decided it was time to step away from my career in game development and shift into other verticals.
-I still believe the game vision is fun and is something I would want to play - however the lack of financial support from my local government and almost zero industry opportunity in my area has forced my hand.
-There are some great coding examples and practices here - so if anything it is a good reference to have up publicly.
-
 # I love this! Can I help?
 As mentioned above, I still believe in this game and I will continue to work on it at a hobbiest capacity.  That said, I welcome contributers and if other people out there want to help the future of the game - that would be amazing!  
 If this happens and the game gets completed - it will be released as free however similar to what Dauntless has done, credit people and show their contributions in the main menu and have a link for direct donations to those people :)
